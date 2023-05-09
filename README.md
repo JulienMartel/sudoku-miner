@@ -37,7 +37,7 @@ console.table(generator.generateSudoku());
 
 **result**
 
-<p align="center"><img src="https://imgur.com/2NV3sQm" /></p>
+<p align="center"><img src="https://github.com/JulienMartel/sudoku-miner/assets/33211907/a0457bde-4ce2-4c1a-817e-4a2394c03bdd" /></p>
 
 ---
 
